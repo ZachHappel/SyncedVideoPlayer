@@ -1,0 +1,2 @@
+# SyncedVideoPlayer
+Application I was creating for a podcast that I decided to not complete. The purpose was to allow the podcast hosts to view the same YouTube video at the same time, in sync. In the application, one user would create a group and the others would join that group. The host of the group would then be able to launch input a Youtube URL and would have access to all the controls. The host would be able to open up the browsers of the members in a single click. The host would also be able to start and stop the video at any time.  
